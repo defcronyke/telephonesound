@@ -1,4 +1,4 @@
-## This is the source code for the official website of Telephone Sound, an electronic music project featuring members Daphne Volante and Jeremy Carter, from Ottawa, ON, Canada.
+## This is the source code for the official website of Telephone Sound, an electronic music band featuring members Daphne Volante and Jeremy Carter, from Ottawa, ON, Canada.
 
 ### Official Site: [https://telephonesound.com](https://telephonesound.com)
 
