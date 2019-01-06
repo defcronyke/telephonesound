@@ -1,3 +1,33 @@
+@font-face {
+	font-family: TelephoneSound;
+	src: url('TelephoneSound1.ttf');
+}
+
+html {
+	background: rgba(0, 0, 0, 1.0);
+}
+body {
+	height: auto;
+	background: rgba(0, 0, 0, 0.0);
+}
+
+a:hover, :visited, :active, :link {
+	text-decoration: none;
+	color: rgba(0, 0, 0, 1.0);
+}
+.image {
+	width: 800px;
+	height: 800px;
+	margin: auto;
+	margin-top: 20px;
+	a {
+		img {
+			width: 800px;
+		}
+	}
+	
+}
+
 .App {
   text-align: center;
 }
