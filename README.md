@@ -1,3 +1,11 @@
+## This is the source code for the official website of Telephone Sound, an electronic music project featuring members Daphne Volante and Jeremy Carter, from Ottawa, ON, Canada.
+
+### Official Site: [https://telephonesound.com](https://telephonesound.com)
+
+### Alternate Link for Official Site: [https://defcronyke.github.io/telephonesound](https://defcronyke.github.io/telephonesound)
+
+----------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
