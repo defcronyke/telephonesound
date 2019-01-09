@@ -36,6 +36,7 @@ export default class Ellipsis extends Component {
             <li><a href="https://itunes.apple.com/us/album/ellipsis-deluxe/1435660482?uo=4&app=music&at=1001lry3&ct=dashboard" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li>
             <li><a href="https://www.deezer.com/album/72630732" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li>
             <li><a href="https://www.tidal.com/album/94767312" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li>
+            <li><a href="https://choon.co/albums/0anfx644aqq/ellipsis-deluxe" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
             <li><a href="https://us.napster.com/artist/telephone-sound/album/ellipsis-deluxe" target="_blank" rel="noopener noreferrer">Stream on Napster</a></li>
             <li><a href="https://www.kkbox.com/sg/en/album/wdKVeUJTvMSoj0F2MfQG009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li>
             <li><a href="https://archive.org/details/telephone_sound-ellipsis_deluxe" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li>
