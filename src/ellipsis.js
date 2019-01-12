@@ -25,10 +25,9 @@ export default class Ellipsis extends Component {
 
           <ul>
             <li><a href="https://telephonesound.bandcamp.com/album/ellipsis-deluxe" target="_blank" rel="noopener noreferrer">Stream or buy on BandCamp</a></li>
-            <li><a href="https://play.google.com/music/m/Bjhbpztgl4hfj75bd4opfp4grai?t=Ellipsis_Deluxe_-_Telephone_Sound" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music</a></li>
-            <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Ellipsis_Deluxe?id=Bjhbpztgl4hfj75bd4opfp4grai" target="_blank" rel="noopener noreferrer">Buy on Google Play Store</a></li>
+            <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Ellipsis_Deluxe?id=Bjhbpztgl4hfj75bd4opfp4grai" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
             <li><a href="https://itunes.apple.com/us/album/ellipsis-deluxe/1435660482?uo=4&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li>
-            <li><a href="https://www.amazon.com/gp/product/B07H63SC99/?tag=distrokid06-20" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li>
+            <li><a href="https://www.amazon.com/gp/product/B07H63SC99" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li>
             <li><a href="https://youtu.be/rXPhqjqKnCc?list=PLA9w7gX4C1R3bYLDm4DyRwy9Fo2QPbnTy" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
             <li><a href="https://audiomack.com/album/telephonesound/ellipsis" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
             <li><a href="https://soundcloud.com/telephonesound/sets/ellipsis" target="_blank" rel="noopener noreferrer">Stream on SoundCloud</a></li>
