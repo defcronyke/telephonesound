@@ -29,8 +29,8 @@ export default class Ellipsis extends Component {
             <li><a href="https://itunes.apple.com/us/album/ellipsis-deluxe/1435660482?uo=4&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li>
             <li><a href="https://www.amazon.com/gp/product/B07H63SC99" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li>
             <li><a href="https://youtu.be/rXPhqjqKnCc?list=PLA9w7gX4C1R3bYLDm4DyRwy9Fo2QPbnTy" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
+            <li><a href="https://soundcloud.com/telephonesound/sets/ellipsis" target="_blank" rel="noopener noreferrer">Stream or download on SoundCloud</a></li>
             <li><a href="https://audiomack.com/album/telephonesound/ellipsis" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
-            <li><a href="https://soundcloud.com/telephonesound/sets/ellipsis" target="_blank" rel="noopener noreferrer">Stream on SoundCloud</a></li>
             <li><a href="https://open.spotify.com/album/7fn1nRLB78zsFscu8Sn2t6" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li>
             <li><a href="https://itunes.apple.com/us/album/ellipsis-deluxe/1435660482?uo=4&app=music&at=1001lry3&ct=dashboard" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li>
             <li><a href="https://www.deezer.com/album/72630732" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li>
@@ -52,7 +52,7 @@ export default class Ellipsis extends Component {
               <li>Send an email to <a href="mailto:Jeremy@JeremyCarter.ca">Jeremy@JeremyCarter.ca</a> and give us a heads-up that you&#39;ll be buying the album. You must do this before you send the BTC, for verification purposes. You don&#39;t need to wait for us to respond.</li>
               <li>Send 0.0018 BTC to this address: <a href="bitcoin:1DYJeNmSA2ixfTWZRZupdWVW7MCH3Wm3BH?amount=0.0018">1DYJeNmSA2ixfTWZRZupdWVW7MCH3Wm3BH</a></li>
               <li>Email the TX ID of your transaction to <a href="mailto:Jeremy@JeremyCarter.ca">Jeremy@JeremyCarter.ca</a>, from the same email address you used before.</li>
-              <li>After we process your order, you will receive a password protected .7z file with the .ogg and .mp3 files in it by email. You can extract the .7z file using <a href="http://p7zip.sourceforge.net/" target="_blank" rel="noopener noreferrer">p7zip</a> on <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noopener noreferrer">Linux</a> or <a href="https://www.7-zip.org/" target="_blank" rel="noopener noreferrer">7zip</a> on other platforms.</li>
+              <li>After we process your order, you will receive a password protected .7z file with the .wav and .flac files in it by email. You can extract the .7z file using <a href="http://p7zip.sourceforge.net/" target="_blank" rel="noopener noreferrer">p7zip</a> on <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noopener noreferrer">Linux</a> or <a href="https://www.7-zip.org/" target="_blank" rel="noopener noreferrer">7zip</a> on other platforms.</li>
             </ol>
           </div>
 
