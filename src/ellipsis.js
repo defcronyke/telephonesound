@@ -19,7 +19,7 @@ export default class Ellipsis extends Component {
 
           <h2>Ellipsis, released in 2016:</h2>
 
-          <iframe title="Ellipsis by Telephone Sound, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/rXPhqjqKnCc?list=PLA9w7gX4C1R3bYLDm4DyRwy9Fo2QPbnTy" frameBorder="0" allowFullScreen />
+          <iframe title="Ellipsis (Deluxe) by Telephone Sound, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA9w7gX4C1R2_-rC1e3lvHRogXcTg9isU" frameborder="0" allow="encrypted-media" allowfullscreen />
 
           <h3><a href="https://defcronyke.github.io/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here to try the Telephone Sound Audio-Reactive Camera Filter, you can use it with any device that has a screen, camera, and microphone attached.</a> <a href="https://github.com/defcronyke/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here for the source code.</a></h3>
 
@@ -28,7 +28,7 @@ export default class Ellipsis extends Component {
             <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Ellipsis_Deluxe?id=Bjhbpztgl4hfj75bd4opfp4grai" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
             <li><a href="https://itunes.apple.com/us/album/ellipsis-deluxe/1435660482?uo=4&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li>
             <li><a href="https://www.amazon.com/gp/product/B07H63SC99" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li>
-            <li><a href="https://youtu.be/rXPhqjqKnCc?list=PLA9w7gX4C1R3bYLDm4DyRwy9Fo2QPbnTy" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
+            <li><a href="https://www.youtube.com/watch?v=ajVU8D9jpKQ&list=PLA9w7gX4C1R2_-rC1e3lvHRogXcTg9isU" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
             <li><a href="https://soundcloud.com/telephonesound/sets/ellipsis" target="_blank" rel="noopener noreferrer">Stream or download on SoundCloud</a></li>
             <li><a href="https://audiomack.com/album/telephonesound/ellipsis" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
             <li><a href="https://open.spotify.com/album/7fn1nRLB78zsFscu8Sn2t6" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li>
