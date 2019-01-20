@@ -19,7 +19,7 @@ export default class Ellipsis extends Component {
 
           <h2>Ellipsis, released in 2016:</h2>
 
-          <iframe title="Ellipsis (Deluxe) by Telephone Sound, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA9w7gX4C1R2_-rC1e3lvHRogXcTg9isU" frameborder="0" allow="encrypted-media" allowfullscreen />
+          <iframe title="Ellipsis (Deluxe) by Telephone Sound, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA9w7gX4C1R2_-rC1e3lvHRogXcTg9isU" frameBorder="0" allow="encrypted-media" allowFullScreen />
 
           <h3><a href="https://defcronyke.github.io/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here to try the Telephone Sound Audio-Reactive Camera Filter, you can use it with any device that has a screen, camera, and microphone attached.</a> <a href="https://github.com/defcronyke/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here for the source code.</a></h3>
 
