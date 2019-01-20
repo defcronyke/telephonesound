@@ -56,7 +56,7 @@ export default class Ellipsis extends Component {
             </ol>
           </div>
 
-          <h3>Check out what we&#39;re working on for our next album. New tracks get posted to our <a href="https://audiomack.com/artist/telephonesound" target="_blank" rel="noopener noreferrer">Audiomack</a>, and <a href="https://soundcloud.com/telephonesound" target="_blank" rel="noopener noreferrer">SoundCloud</a> while we&#39;re working on the next album:</h3>
+          <h3>Check out what we&#39;re working on for our next album. New tracks get posted to our <a href="https://audiomack.com/artist/telephonesound" target="_blank" rel="noopener noreferrer">Audiomack</a> and <a href="https://soundcloud.com/telephonesound" target="_blank" rel="noopener noreferrer">SoundCloud</a> while we&#39;re working on the next album:</h3>
 
           <iframe title="All songs by Telephone Sound, embedded from Audiomack." src="https://audiomack.com/embed/playlist/telephonesound/all?background=1" scrolling="no" width="100%" height="400" scrollbars="no" frameBorder="0" />
           {/* <iframe width="100%" height="450" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/583796493&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"/> */}
