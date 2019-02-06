@@ -19,7 +19,7 @@ export default class EmptySpaces extends Component {
 
           <h2>Empty Spaces, released in 2019:</h2>
 
-          <div className="choon-player" style={{ border: '0px solid silver', overflow: 'hidden', margin: '15px auto', marginLeft: '-190px', width: '1450px', }}><iframe title="Empty Spaces by Telephone Sound, embedded from Choon." style={{ border: '0px none', marginLeft: '-260px', height: '930px', marginTop: '-50px', width: '100%' }} src="https://choon.co/albums/0qunzdv3kc5/empty-spaces" scrolling="no"><span style={{ display: 'inline-block', width: '0px', overflow: 'hidden', lineHeight: 0 }} data-mce-type="bookmark" class="mce_SELRES_start">?</span></iframe></div>
+          <div className="choon-player" style={{ border: '0px solid silver', overflow: 'hidden', margin: '15px auto', marginLeft: '-190px', width: '1450px', }}><iframe title="Empty Spaces by Telephone Sound, embedded from Choon." style={{ border: '0px none', marginLeft: '-260px', height: '1020px', marginTop: '-50px', width: '100%' }} src="https://choon.co/albums/0qunzdv3kc5/empty-spaces" scrolling="no"><span style={{ display: 'inline-block', width: '0px', overflow: 'hidden', lineHeight: 0 }} data-mce-type="bookmark" class="mce_SELRES_start">?</span></iframe></div>
 
           <h3><a href="https://defcronyke.github.io/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here to try the Telephone Sound Audio-Reactive Camera Filter, you can use it with any device that has a screen, camera, and microphone attached.</a> <a href="https://github.com/defcronyke/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here for the source code.</a></h3>
 
