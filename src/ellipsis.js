@@ -8,7 +8,7 @@ export default class Ellipsis extends Component {
       <div>
         <div className="image">
           <Link to="/">
-            <div className="ts"><span className="t">T</span><span className="s">elephone Sound</span></div>
+            <div className="ts-el"><span className="t">T</span><span className="s">elephone Sound</span></div>
             <div className="el">…</div>
             <img className="album-cover" src="./images/ellipsis-album_cover.png" alt="A digitally modified photograph of clouds, taken from above." />
           </Link>
