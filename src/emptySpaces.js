@@ -47,8 +47,7 @@ export default class EmptySpaces extends Component {
             {/* <li><a href="https://us.napster.com/artist/telephone-sound/album/ellipsis-deluxe" target="_blank" rel="noopener noreferrer">Stream on Napster</a></li> */}
             <li>Stream on KKBox (Coming Soon)</li>
             {/* <li><a href="https://www.kkbox.com/sg/en/album/wdKVeUJTvMSoj0F2MfQG009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li> */}
-            <li>Stream or download on Archive.org (Coming Soon)</li>
-            {/* <li><a href="https://archive.org/details/telephone_sound-ellipsis_deluxe" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li> */}
+            <li><a href="https://archive.org/details/telephone_sound-empty_spaces" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li>
             <li><a href="https://www.facebook.com/telephonesound" target="_blank" rel="noopener noreferrer">Follow our Facebook page</a></li>
             <li><a href="https://www.patreon.com/telephonesound" target="_blank" rel="noopener noreferrer">Support us on Patreon</a></li>
             <li>Support us by sending an <a href="https://en.wikipedia.org/wiki/Interac_e-Transfer" target="_blank" rel="noopener noreferrer">Interac eTransfer</a> or <a href="https://paypal.com" target="_blank" rel="noopener noreferrer">PayPal transfer</a> to: <a href="mailto:Jeremy@JeremyCarter.ca">Jeremy@JeremyCarter.ca</a></li>
