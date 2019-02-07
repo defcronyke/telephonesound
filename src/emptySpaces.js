@@ -34,8 +34,7 @@ export default class EmptySpaces extends Component {
             <li><a href="https://www.youtube.com/watch?v=p2NIETwuiAQ&list=PLA9w7gX4C1R2vbq8Q2M3xqtB63xf6DKVG" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
             <li><a href="https://soundcloud.com/telephonesound/sets/empty-spaces" target="_blank" rel="noopener noreferrer">Stream or download on SoundCloud</a></li>
             <li><a href="https://audiomack.com/album/telephonesound/empty-spaces" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
-            <li>Stream on Spotify (Coming Soon)</li>
-            {/* <li><a href="https://open.spotify.com/album/7fn1nRLB78zsFscu8Sn2t6" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li> */}
+            <li><a href="https://open.spotify.com/album/0Gpi8Zfb6Zwj65Y0s7AFKd" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li>
             <li>Stream on Apple Music (Coming Soon)</li>
             {/* <li><a href="https://itunes.apple.com/us/album/ellipsis-deluxe/1435660482?uo=4&app=music&at=1001lry3&ct=dashboard" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li> */}
             <li>Stream on Deezer (Coming Soon)</li>
