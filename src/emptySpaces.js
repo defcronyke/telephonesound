@@ -29,8 +29,7 @@ export default class EmptySpaces extends Component {
             {/* <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Ellipsis_Deluxe?id=Bjhbpztgl4hfj75bd4opfp4grai" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li> */}
             <li>Buy on iTunes (Coming Soon)</li>
             {/* <li><a href="https://itunes.apple.com/us/album/ellipsis-deluxe/1435660482?uo=4&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li> */}
-            <li>Buy on Amazon (Coming Soon)</li>
-            {/* <li><a href="https://www.amazon.com/gp/product/B07H63SC99" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li> */}
+            <li><a href="https://www.amazon.com/gp/product/B07NDYFHF1" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li>
             <li><a href="https://www.youtube.com/watch?v=p2NIETwuiAQ&list=PLA9w7gX4C1R2vbq8Q2M3xqtB63xf6DKVG" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
             <li><a href="https://soundcloud.com/telephonesound/sets/empty-spaces" target="_blank" rel="noopener noreferrer">Stream or download on SoundCloud</a></li>
             <li><a href="https://audiomack.com/album/telephonesound/empty-spaces" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
@@ -38,13 +37,11 @@ export default class EmptySpaces extends Component {
             <li>Stream on Apple Music (Coming Soon)</li>
             {/* <li><a href="https://itunes.apple.com/us/album/ellipsis-deluxe/1435660482?uo=4&app=music&at=1001lry3&ct=dashboard" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li> */}
             <li><a href="https://www.deezer.com/album/86636832" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li>
-            <li>Stream on Tidal (Coming Soon)</li>
-            {/* <li><a href="https://www.tidal.com/album/94767312" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li> */}
+            <li><a href="https://tidal.com/browse/album/103689661" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li>
             <li><a href="https://choon.co/albums/0qunzdv3kc5/empty-spaces" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
             <li>Stream on Napster (Coming Soon)</li>
             {/* <li><a href="https://us.napster.com/artist/telephone-sound/album/ellipsis-deluxe" target="_blank" rel="noopener noreferrer">Stream on Napster</a></li> */}
-            <li>Stream on KKBox (Coming Soon)</li>
-            {/* <li><a href="https://www.kkbox.com/sg/en/album/wdKVeUJTvMSoj0F2MfQG009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li> */}
+            <li><a href="https://www.kkbox.com/sg/en/album/Bpa.ppMs7Wazn0F2sh6T009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li>
             <li><a href="https://archive.org/details/telephone_sound-empty_spaces" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li>
             <li><a href="https://www.facebook.com/telephonesound" target="_blank" rel="noopener noreferrer">Follow our Facebook page</a></li>
             <li><a href="https://www.patreon.com/telephonesound" target="_blank" rel="noopener noreferrer">Support us on Patreon</a></li>
