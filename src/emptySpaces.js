@@ -37,8 +37,7 @@ export default class EmptySpaces extends Component {
             <li><a href="https://open.spotify.com/album/0Gpi8Zfb6Zwj65Y0s7AFKd" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li>
             <li>Stream on Apple Music (Coming Soon)</li>
             {/* <li><a href="https://itunes.apple.com/us/album/ellipsis-deluxe/1435660482?uo=4&app=music&at=1001lry3&ct=dashboard" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li> */}
-            <li>Stream on Deezer (Coming Soon)</li>
-            {/* <li><a href="https://www.deezer.com/album/72630732" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li> */}
+            <li><a href="https://www.deezer.com/album/86636832" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li>
             <li>Stream on Tidal (Coming Soon)</li>
             {/* <li><a href="https://www.tidal.com/album/94767312" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li> */}
             <li><a href="https://choon.co/albums/0qunzdv3kc5/empty-spaces" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
