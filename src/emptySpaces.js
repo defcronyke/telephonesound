@@ -45,6 +45,14 @@ export default class EmptySpaces extends Component {
             <li>Support us by sending <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:35VPDNv2fKoVEnKAsKhVMfNtks31tma1Mi?amount=0.0018">35VPDNv2fKoVEnKAsKhVMfNtks31tma1Mi</a></li>
           </ul>
 
+          <h2>Download the album with Bittorrent:</h2>
+          <ul>
+            <li><a href="magnet:?xt=urn:btih:6d2e7920f5117ed052272f01022f353cf5b84935&dn=Telephone%20Sound%20-%20Empty%20Spaces%20-%202019%20-%20flac&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">flac</a></li>
+            <li><a href="magnet:?xt=urn:btih:a7986af111e96effbb80623bd7902de0947634d7&dn=Telephone%20Sound%20-%20Empty%20Spaces%20-%202019%20-%20mp3&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">mp3</a></li>
+            <li><a href="magnet:?xt=urn:btih:3d20e9bebd280db9d6eaf76dbea744554aadf631&dn=Telephone%20Sound%20-%20Empty%20Spaces%20-%202019%20-%20ogg&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">ogg</a></li>
+            <li><a href="magnet:?xt=urn:btih:3d6ed3f22ce011aa71ca3f7cb85d3c8db6914551&dn=Telephone%20Sound%20-%20Empty%20Spaces%20-%202019%20-%20wav&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">wav</a></li>
+          </ul>
+
           <h2>Buy the album with Bitcoin:</h2>
 
           <div className="bitcoin">

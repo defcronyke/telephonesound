@@ -46,6 +46,14 @@ export default class Ellipsis extends Component {
             <li>Support us by sending <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:3EMpa41qRZyY9NsCq8kMPab5u2uv5BRrJr?amount=0.0018">3EMpa41qRZyY9NsCq8kMPab5u2uv5BRrJr</a></li>
           </ul>
 
+          <h2>Download the album with Bittorrent:</h2>
+          <ul>
+            <li><a href="magnet:?xt=urn:btih:0d436a521818e5e8849321957fd8b4f28c0bdcd9&dn=Telephone%20Sound%20-%20Ellipsis%20%28Deluxe%29%20-%202016%20-%20flac&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">flac</a></li>
+            <li><a href="magnet:?xt=urn:btih:d50e49b7a3744a922e835a936c938f48d533e4d2&dn=Telephone%20Sound%20-%20Ellipsis%20%28Deluxe%29%20-%202016%20-%20mp3&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">mp3</a></li>
+            <li><a href="magnet:?xt=urn:btih:bfe8e28ef3cdd55ff1ed7e8ad30f017d14a70066&dn=Telephone%20Sound%20-%20Ellipsis%20%28Deluxe%29%20-%202016%20-%20ogg&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">ogg</a></li>
+            <li><a href="magnet:?xt=urn:btih:4dc9f0d5876280566adf0234fe965fb46ec180d7&dn=Telephone%20Sound%20-%20Ellipsis%20%28Deluxe%29%20-%202016%20-%20wav&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">wav</a></li>
+          </ul>
+
           <h2>Buy the album with Bitcoin:</h2>
 
           <div className="bitcoin">
