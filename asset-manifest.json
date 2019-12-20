@@ -1,14 +1,23 @@
 {
-  "main.css": "/static/css/main.b2de9e60.chunk.css",
-  "main.js": "/static/js/main.f6241a64.chunk.js",
-  "main.js.map": "/static/js/main.f6241a64.chunk.js.map",
-  "static/js/1.998d6f87.chunk.js": "/static/js/1.998d6f87.chunk.js",
-  "static/js/1.998d6f87.chunk.js.map": "/static/js/1.998d6f87.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/App.scss": "/static/media/TelephoneSound1.b5188d45.ttf",
-  "static/css/main.b2de9e60.chunk.css.map": "/static/css/main.b2de9e60.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.7614e0f3171048fe29be276d59c26675.js": "/precache-manifest.7614e0f3171048fe29be276d59c26675.js",
-  "service-worker.js": "/service-worker.js"
+  "files": {
+    "main.css": "/static/css/main.356aed9a.chunk.css",
+    "main.js": "/static/js/main.0b1b9833.chunk.js",
+    "main.js.map": "/static/js/main.0b1b9833.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4593d27a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4593d27a.js.map",
+    "static/js/2.501bba6e.chunk.js": "/static/js/2.501bba6e.chunk.js",
+    "static/js/2.501bba6e.chunk.js.map": "/static/js/2.501bba6e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.08edd06048d6f40ee1f0ff0bd5a7dd63.js": "/precache-manifest.08edd06048d6f40ee1f0ff0bd5a7dd63.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.356aed9a.chunk.css.map": "/static/css/main.356aed9a.chunk.css.map",
+    "static/js/2.501bba6e.chunk.js.LICENSE": "/static/js/2.501bba6e.chunk.js.LICENSE",
+    "static/media/App.scss": "/static/media/TelephoneSound1.b5188d45.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4593d27a.js",
+    "static/js/2.501bba6e.chunk.js",
+    "static/css/main.356aed9a.chunk.css",
+    "static/js/main.0b1b9833.chunk.js"
+  ]
 }
