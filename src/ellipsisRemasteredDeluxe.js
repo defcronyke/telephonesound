@@ -30,7 +30,7 @@ export default class EllipsisRemasteredDeluxe extends Component {
             <li>Support us by sending <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:bc1quka4yv0tpfym8hpc34ljys0qfk92u5cljrfzxm?amount=0.0003">bc1quka4yv0tpfym8hpc34ljys0qfk92u5cljrfzxm</a></li>
           </ul>
 
-          <div className="fb-page" data-href="https://www.facebook.com/telephonesound/" data-tabs="timeline,events,messages" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/telephonesound/" className="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/telephonesound/">Telephone Sound</a></blockquote></div>
+          <iframe title="Facebook Page Embed" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftelephonesound%2F&tabs=timeline%2C%20events%2C%20messages&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=191450255397229" width="340" height="500" style={{border: 'none', overflow: 'hidden'}} scrolling="no" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
           <h3>Check out what we&#39;re working on for our next album. New tracks get posted to our <a href="https://audiomack.com/artist/telephonesound" target="_blank" rel="noopener noreferrer">Audiomack</a> and <a href="https://soundcloud.com/telephonesound" target="_blank" rel="noopener noreferrer">SoundCloud</a> while we&#39;re working on the next album:</h3>
 
@@ -42,8 +42,6 @@ export default class EllipsisRemasteredDeluxe extends Component {
           <h4>Part of <a href="https://eternalvoid.net" target="_blank" rel="noopener noreferrer">The Eternal Void Network</a>.</h4>
           <br /><br />
         </div>
-
-        <script async defer crossOrigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&autoLogAppEvents=1&version=v6.0&appId=191450255397229"></script>
       </div >
     );
   }
