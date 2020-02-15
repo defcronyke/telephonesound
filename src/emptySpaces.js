@@ -19,7 +19,6 @@ export default class EmptySpaces extends Component {
 
           <h2>Empty Spaces, released in 2019:</h2>
 
-          {/* <div className="choon-player" style={{ border: '0px solid silver', overflow: 'hidden', margin: '15px auto', marginLeft: '-190px', width: '1450px', }}><iframe title="Empty Spaces by Telephone Sound, embedded from Choon." style={{ border: '0px none', marginLeft: '-260px', height: '1020px', marginTop: '-50px', width: '100%' }} src="https://choon.co/albums/0qunzdv3kc5/empty-spaces" scrolling="no"><span style={{ display: 'inline-block', width: '0px', overflow: 'hidden', lineHeight: 0 }} data-mce-type="bookmark" class="mce_SELRES_start">?</span></iframe></div> */}
           <iframe title="Empty Spaces by Telephone Sound, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA9w7gX4C1R2vbq8Q2M3xqtB63xf6DKVG" frameBorder="0" allow="encrypted-media" allowFullScreen />
 
           <h3><a href="https://defcronyke.github.io/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here to try the Telephone Sound Audio-Reactive Camera Filter, you can use it with any device that has a screen, camera, and microphone attached.</a> <a href="https://github.com/defcronyke/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here for the source code.</a></h3>
@@ -36,7 +35,6 @@ export default class EmptySpaces extends Component {
             <li><a href="https://itunes.apple.com/us/album/empty-spaces/1452079648?app=apple%20music&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li>
             <li><a href="https://www.deezer.com/album/86636832" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li>
             <li><a href="https://tidal.com/browse/album/103689661" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li>
-            <li><a href="https://choon.co/albums/0qunzdv3kc5/empty-spaces" target="_blank" rel="noopener noreferrer">Stream on Choon</a></li>
             <li><a href="https://us.napster.com/artist/telephone-sound/album/empty-spaces" target="_blank" rel="noopener noreferrer">Stream on Napster</a></li>
             <li><a href="https://www.kkbox.com/sg/en/album/Bpa.ppMs7Wazn0F2sh6T009H-index.html" target="_blank" rel="noopener noreferrer">Stream on KKBox</a></li>
             <li><a href="https://archive.org/details/telephone_sound-empty_spaces" target="_blank" rel="noopener noreferrer">Stream or download on Archive.org</a></li>
