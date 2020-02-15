@@ -5,7 +5,7 @@ import './ellipsisRemasteredDeluxe.scss';
 export default class EllipsisRemasteredDeluxe extends Component {
   render() {
     return (
-      <div class="page">
+      <div className="page">
         <div className="image">
           <Link to="/">
             <div className="ts-el"><span className="t">T</span><span className="s">elephone Sound</span></div>
@@ -29,6 +29,8 @@ export default class EllipsisRemasteredDeluxe extends Component {
             <li>Support us by sending an <a href="https://en.wikipedia.org/wiki/Interac_e-Transfer" target="_blank" rel="noopener noreferrer">Interac eTransfer</a> or <a href="https://paypal.com" target="_blank" rel="noopener noreferrer">PayPal transfer</a> to: <a href="mailto:jeremy@jeremycarter.ca">jeremy@jeremycarter.ca</a></li>
             <li>Support us by sending <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:bc1quka4yv0tpfym8hpc34ljys0qfk92u5cljrfzxm?amount=0.0003">bc1quka4yv0tpfym8hpc34ljys0qfk92u5cljrfzxm</a></li>
           </ul>
+
+          <div className="fb-page" data-href="https://www.facebook.com/telephonesound/" data-tabs="timeline, events, messages" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/telephonesound/" className="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/telephonesound/">Telephone Sound</a></blockquote></div>
 
           <h3>Check out what we&#39;re working on for our next album. New tracks get posted to our <a href="https://audiomack.com/artist/telephonesound" target="_blank" rel="noopener noreferrer">Audiomack</a> and <a href="https://soundcloud.com/telephonesound" target="_blank" rel="noopener noreferrer">SoundCloud</a> while we&#39;re working on the next album:</h3>
 
