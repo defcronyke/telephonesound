@@ -1,0 +1,77 @@
+// .page {
+// 	color: rgba(255, 255, 255, 1.0) !important;
+// }
+
+.album-cover {
+  width: 800px;
+  padding-top: 10px;
+}
+
+.image {
+	// color: rgba(255, 255, 255, 1.0) !important;
+
+	.ts-el {
+		color: rgba(255, 255, 255, 1.0);
+		text-shadow: #000 0px 0px 4px;
+		font-family: serif;
+		font-size: 70px;
+		position: absolute;
+		width: 800px;
+    text-align: center;
+    padding-top: 50px;
+		.t {
+			font-family: TelephoneSound;
+		}
+		.s {
+			font-family: 'Roboto Slab', serif;
+			position: relative;
+			left: -10px;
+		}
+	}
+	.el {
+		color: rgba(255, 255, 255, 1.0);
+		text-shadow: #000 0px 0px 4px;
+		font-family: serif;
+		font-size: 60px;
+		position: absolute;
+		top: 300px;
+		width: 800px;
+    text-align: center;
+    padding-top: 50px;
+	}
+}
+.links {
+	color: rgba(255, 255, 255, 1.0);
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+
+	ul {
+		li {
+			margin-top: 5px;
+			margin-bottom: 5px;
+		}
+	}
+
+	ol {
+		li {
+			margin-top: 5px;
+			margin-bottom: 5px;
+		}
+	}
+
+	a:visited, :active, :link {
+		text-decoration: none;
+		color: rgba(255, 255, 255, 1.0);
+	}
+
+	a:hover {
+		text-decoration: underline;
+	}
+}
+
+@media (max-width: 768px) {
+  .choon-player {
+    margin-left: 0px !important;
+  }
+}

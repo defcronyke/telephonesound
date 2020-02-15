@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import Home from './Home';
+import EllipsisRemasteredDeluxe from './ellipsisRemasteredDeluxe';
 import EmptySpaces from './emptySpaces';
 import Ellipsis from './ellipsis';
 import './App.scss';
@@ -17,6 +18,7 @@ export default class App extends Component {
         <div>
           <Route component={App.ScrollToTop} />
           <Route exact path="/" component={Home} />
+          <Route path="/ellipsis-remastered-deluxe" component={EllipsisRemasteredDeluxe} />
           <Route path="/empty-spaces" component={EmptySpaces} />
           <Route path="/ellipsis" component={Ellipsis} />
         </div>
