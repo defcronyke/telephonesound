@@ -17,9 +17,11 @@ export default class EllipsisRemasteredDeluxe extends Component {
         <div className="links">
           <h4><Link to="/">Telephone Sound</Link> is an electronic music band from <a href="https://goo.gl/maps/68jtLij9kX72" target="_blank" rel="noopener noreferrer">Ottawa, Ontario, Canada</a>, consisting of partners <a href="https://prettyweird.ca" target="_blank" rel="noopener noreferrer">Fern Vale Volante</a> and <a href="https://eternalvoid.net" target="_blank" rel="noopener noreferrer">Jeremy Carter</a>.</h4>
 
-          <h2>Coming Soon...</h2>
+          <a href="https://distrokid.com/hyperfollow/telephonesound/ellipsis-remastered-deluxe-2">
+            <h2>Coming Soon...</h2>
 
-          <h3><a href="https://distrokid.com/hyperfollow/telephonesound/ellipsis-remastered-deluxe-2">Ellipsis (Remastered Deluxe) is coming to your favourite online music stores and streaming platforms on March 23, 2020.</a></h3>
+            <h3>Ellipsis (Remastered Deluxe) is coming to your favourite online music stores and streaming platforms on March 23, 2020.</h3>
+          </a>
 
           <ul>
             <li><a href="https://www.facebook.com/telephonesound" target="_blank" rel="noopener noreferrer">Follow our Facebook page</a></li>
