@@ -31,6 +31,9 @@ export default class Home extends Component {
               />
             </Link>
           </div>
+          <br/>
+          <p style={{fontSize: '10pt', textAlign: 'left', marginLeft: '30px'}}><a href="privacy-policy.html" style={{color: 'white'}}>View Privacy Policy</a></p>
+          <br/>
         </div>
       </div>
     );

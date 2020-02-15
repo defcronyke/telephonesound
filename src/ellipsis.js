@@ -73,7 +73,8 @@ export default class Ellipsis extends Component {
           <h4>If you like this, check out <a href="https://www.youtube.com/watch?v=lQHezciPEDI" target="_blank" rel="noopener noreferrer">Daphne Volante&#39;s solo work here</a>, and <a href="https://eternalvoid.net" target="_blank" rel="noopener noreferrer">Jeremy Carter</a>&#39;s solo work under the name Defcronyke: <a href="https://defcronyke.com" target="_blank" rel="noopener noreferrer">defcronyke.com</a></h4>
           <h4>The source code for this website is available here: <a href="https://github.com/defcronyke/telephonesound" target="_blank" rel="noopener noreferrer">github.com/defcronyke/telephonesound</a></h4>
           <h4>Part of <a href="https://eternalvoid.net" target="_blank" rel="noopener noreferrer">The Eternal Void Network</a>.</h4>
-          <br /><br />
+          <p style={{fontSize: '10pt'}}><a href="privacy-policy.html">View Privacy Policy</a></p>
+          <br />
         </div>
       </div >
     );

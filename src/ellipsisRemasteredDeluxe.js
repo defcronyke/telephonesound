@@ -30,7 +30,7 @@ export default class EllipsisRemasteredDeluxe extends Component {
             <li>Support us by sending <a href="https://en.wikipedia.org/wiki/Bitcoin" target="_blank" rel="noopener noreferrer">Bitcoin</a> to BTC address: <a href="bitcoin:bc1quka4yv0tpfym8hpc34ljys0qfk92u5cljrfzxm?amount=0.0003">bc1quka4yv0tpfym8hpc34ljys0qfk92u5cljrfzxm</a></li>
           </ul>
 
-          <iframe title="Facebook Page Embed" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftelephonesound%2F&tabs=timeline%2C%20events%2C%20messages&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=191450255397229" width="340" height="500" style={{border: 'none', overflow: 'hidden'}} scrolling="no" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+          <iframe title="Facebook Page Embed" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftelephonesound%2F&tabs=timeline%2Cevents%2Cmessages&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=191450255397229" width="340" height="500" style={{border: 'none', overflow: 'hidden'}} scrolling="no" frameBorder="0"/>
 
           <h3>Check out what we&#39;re working on for our next album. New tracks get posted to our <a href="https://audiomack.com/artist/telephonesound" target="_blank" rel="noopener noreferrer">Audiomack</a> and <a href="https://soundcloud.com/telephonesound" target="_blank" rel="noopener noreferrer">SoundCloud</a> while we&#39;re working on the next album:</h3>
 
@@ -40,7 +40,8 @@ export default class EllipsisRemasteredDeluxe extends Component {
           <h4>If you like this, check out <a href="https://www.youtube.com/watch?v=lQHezciPEDI" target="_blank" rel="noopener noreferrer">Daphne Volante&#39;s solo work here</a>, and <a href="https://eternalvoid.net" target="_blank" rel="noopener noreferrer">Jeremy Carter</a>&#39;s solo work under the name Defcronyke: <a href="https://defcronyke.com" target="_blank" rel="noopener noreferrer">defcronyke.com</a></h4>
           <h4>The source code for this website is available here: <a href="https://github.com/defcronyke/telephonesound" target="_blank" rel="noopener noreferrer">github.com/defcronyke/telephonesound</a></h4>
           <h4>Part of <a href="https://eternalvoid.net" target="_blank" rel="noopener noreferrer">The Eternal Void Network</a>.</h4>
-          <br /><br />
+          <p style={{fontSize: '10pt'}}><a href="privacy-policy.html">View Privacy Policy</a></p>
+          <br />
         </div>
       </div >
     );
