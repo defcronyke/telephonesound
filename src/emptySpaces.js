@@ -64,7 +64,7 @@ export default class EmptySpaces extends Component {
           </div>
 
           <div className="news">
-            <h2>News</h2>
+            <h2>News:</h2>
             <iframe title="Telephone Sound Empty Spaces Facebook Page Embed" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftelephonesound%2F&tabs=timeline%2Cmessages&width=340&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=191450255397229" width="340" height="500" style={{border: 'none', overflow: 'hidden'}} scrolling="no" frameBorder="0" allowtransparency="true" allow="encrypted-media"/>
           </div>
 
