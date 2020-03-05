@@ -25,7 +25,8 @@ export default class Ellipsis extends Component {
 
           <ul>
             <li><a href="https://telephonesound.bandcamp.com/album/ellipsis-deluxe" target="_blank" rel="noopener noreferrer">Stream or buy on BandCamp</a></li>
-            <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Ellipsis_Deluxe?id=Bjhbpztgl4hfj75bd4opfp4grai" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
+            <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Ellipsis_Deluxe?id=Bwffsvzgbil7t3ekjtrshadkzmu" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
+            {/* <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Ellipsis_Deluxe?id=Bjhbpztgl4hfj75bd4opfp4grai" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li> */}
             <li><a href="https://itunes.apple.com/us/album/ellipsis-deluxe/1435660482?uo=4&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li>
             <li><a href="https://www.amazon.com/gp/product/B07H63SC99" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li>
             <li><a href="https://www.youtube.com/watch?v=ajVU8D9jpKQ&list=PLA9w7gX4C1R2_-rC1e3lvHRogXcTg9isU" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>

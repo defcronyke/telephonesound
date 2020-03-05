@@ -25,7 +25,8 @@ export default class EmptySpaces extends Component {
 
           <ul>
             <li><a href="https://telephonesound.bandcamp.com/album/empty-spaces" target="_blank" rel="noopener noreferrer">Stream or buy on BandCamp</a></li>
-            <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Empty_Spaces?id=Bnsveoyptamxwfpaln2gx6yej3m" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
+            <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Empty_Spaces?id=B7nnp7msl3myudmptcwtn2jgdfe" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
+            {/* <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Empty_Spaces?id=Bnsveoyptamxwfpaln2gx6yej3m" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li> */}
             <li><a href="https://itunes.apple.com/us/album/empty-spaces/1452079648?app=itunes&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li>
             <li><a href="https://www.amazon.com/gp/product/B07NDYFHF1" target="_blank" rel="noopener noreferrer">Buy on Amazon</a></li>
             <li><a href="https://www.youtube.com/watch?v=p2NIETwuiAQ&list=PLA9w7gX4C1R2vbq8Q2M3xqtB63xf6DKVG" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
