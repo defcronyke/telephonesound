@@ -23,7 +23,8 @@ export default class EllipsisRemasteredDeluxe extends Component {
 
           <h2>Ellipsis (Remastered Deluxe), released in 2020:</h2>
 
-          <iframe title="Ellipsis (Remastered Deluxe) by Telephone Sound, embedded from YouTube." width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_n2ppYqCNO2K_sb3KJFWy5z7M5LoMtM4L4" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+          <iframe title="Ellipsis (Remastered Deluxe) by Telephone Sound, embedded from SoundCloud." width="100%" height="300" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1017678904&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" target="_blank" rel="noopener noreferrer" />
+          {/* <iframe title="Ellipsis (Remastered Deluxe) by Telephone Sound, embedded from YouTube." width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_n2ppYqCNO2K_sb3KJFWy5z7M5LoMtM4L4" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen /> */}
 
           <h3><a href="https://defcronyke.github.io/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here to try the Telephone Sound Audio-Reactive Camera Filter, you can use it with any device that has a screen, camera, and microphone attached. Visualize your surroundings with audio through this neat augmented reality web app.</a> <a href="https://github.com/defcronyke/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here for the source code.</a></h3>
 
@@ -34,7 +35,7 @@ export default class EllipsisRemasteredDeluxe extends Component {
             <li><a href="https://music.youtube.com/playlist?list=OLAK5uy_n2ppYqCNO2K_sb3KJFWy5z7M5LoMtM4L4" target="_blank" rel="noopener noreferrer">Stream on YouTube Music</a></li>
             <li><a href="https://www.youtube.com/watch?v=R1ZclqJiIjs&list=OLAK5uy_n2ppYqCNO2K_sb3KJFWy5z7M5LoMtM4L4" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
             <li><a href="https://open.spotify.com/album/4dDHYDQPaVzYEGLUAlvX6g" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li>
-            <li><a href="https://music.apple.com/ca/album/ellipsis-remastered-deluxe-remastered/1498888685" target="_blank" rel="noopener noreferrer">Stream on Apple Music</a></li>
+            <li><a href="https://music.apple.com/ca/album/ellipsis-remastered-deluxe-remastered/1498888685" target="_blank" rel="noopener noreferrer">Stream on Apple Music or Buy on iTunes</a></li>
             <li><a href="https://www.deezer.com/album/131566232" target="_blank" rel="noopener noreferrer">Stream on Deezer</a></li>
             {/* <li><a href="https://www.tidal.com/album/94767312" target="_blank" rel="noopener noreferrer">Stream on Tidal</a></li> */}
             {/* <li><a href="https://us.napster.com/artist/telephone-sound/album/ellipsis-deluxe" target="_blank" rel="noopener noreferrer">Stream on Napster</a></li> */}
