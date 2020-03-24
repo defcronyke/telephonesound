@@ -23,7 +23,7 @@ export default class EllipsisRemasteredDeluxe extends Component {
 
           <h2>Ellipsis (Remastered Deluxe), released in 2020:</h2>
 
-          <iframe title="Ellipsis (Remastered Deluxe) by Telephone Sound, embedded from YouTube." width="560" height="315" src="https://www.youtube-nocookie.com/embed/R1ZclqJiIjs" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+          <iframe title="Ellipsis (Remastered Deluxe) by Telephone Sound, embedded from YouTube." width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_n2ppYqCNO2K_sb3KJFWy5z7M5LoMtM4L4" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
 
           <h3><a href="https://defcronyke.github.io/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here to try the Telephone Sound Audio-Reactive Camera Filter, you can use it with any device that has a screen, camera, and microphone attached. Visualize your surroundings with audio through this neat augmented reality web app.</a> <a href="https://github.com/defcronyke/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here for the source code.</a></h3>
 
