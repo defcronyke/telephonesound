@@ -32,6 +32,8 @@ export default class EllipsisRemasteredDeluxe extends Component {
             <li><a href="https://telephonesound.bandcamp.com/album/ellipsis-remastered-deluxe" target="_blank" rel="noopener noreferrer">Stream or buy on BandCamp</a></li>
             <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Ellipsis_Remastered_Deluxe?id=Be6uvln5i3jngnc7hfw6qhk7mui" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
             <li><a href="https://www.amazon.com/gp/product/B084RR3J81" target="_blank" rel="noopener noreferrer">Stream or Buy on Amazon</a></li>
+            <li><a href="https://soundcloud.com/telephonesound/sets/ellipsis-remastered-deluxe" target="_blank" rel="noopener noreferrer">Stream or download on SoundCloud</a></li>
+            <li><a href="https://audiomack.com/album/telephonesound/ellipsis-remastered-deluxe" target="_blank" rel="noopener noreferrer">Stream on Audiomack</a></li>
             <li><a href="https://music.youtube.com/playlist?list=OLAK5uy_n2ppYqCNO2K_sb3KJFWy5z7M5LoMtM4L4" target="_blank" rel="noopener noreferrer">Stream on YouTube Music</a></li>
             <li><a href="https://www.youtube.com/watch?v=R1ZclqJiIjs&list=OLAK5uy_n2ppYqCNO2K_sb3KJFWy5z7M5LoMtM4L4" target="_blank" rel="noopener noreferrer">Stream on YouTube</a></li>
             <li><a href="https://open.spotify.com/album/4dDHYDQPaVzYEGLUAlvX6g" target="_blank" rel="noopener noreferrer">Stream on Spotify</a></li>
