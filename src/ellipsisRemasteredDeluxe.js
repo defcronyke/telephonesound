@@ -30,7 +30,7 @@ export default class EllipsisRemasteredDeluxe extends Component {
           <h3><a href="https://defcronyke.github.io/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here to try the Telephone Sound Audio-Reactive Camera Filter, you can use it with any device that has a screen, camera, and microphone attached. Visualize your surroundings with audio through this neat augmented reality web app.</a> <a href="https://github.com/defcronyke/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here for the source code.</a></h3>
 
           <ul>
-            <li><a href="https://emanate.live/telephone-sound" target="_blank" rel="noopener noreferrer">Stream on Emanate.live</a></li>
+            <li><a href="https://emanate.live/telephonesound" target="_blank" rel="noopener noreferrer">Stream on Emanate.live</a></li>
             <li><a href="https://telephonesound.bandcamp.com/album/ellipsis-remastered-deluxe" target="_blank" rel="noopener noreferrer">Stream or buy on BandCamp</a></li>
             <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Ellipsis_Remastered_Deluxe?id=Be6uvln5i3jngnc7hfw6qhk7mui" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
             {/* <li><a href="https://www.amazon.com/gp/product/B084RR3J81" target="_blank" rel="noopener noreferrer">Stream or buy on Amazon</a></li> */}
