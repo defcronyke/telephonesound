@@ -25,6 +25,7 @@ export default class Ellipsis extends Component {
 
           <ul>
             <li><a href="https://telephonesound.bandcamp.com/album/ellipsis-deluxe" target="_blank" rel="noopener noreferrer">Stream or buy on BandCamp</a></li>
+            <li><a href="https://music.youtube.com/playlist?list=OLAK5uy_l4K4jTsPGEPoTMZ44BZCvTlKXdxiNnAvg" target="_blank" rel="noopener noreferrer">Stream on YouTube Music</a></li>
             <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Ellipsis_Deluxe?id=Bwffsvzgbil7t3ekjtrshadkzmu" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
             {/* <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Ellipsis_Deluxe?id=Bjhbpztgl4hfj75bd4opfp4grai" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li> */}
             <li><a href="https://itunes.apple.com/us/album/ellipsis-deluxe/1435660482?uo=4&app=music&at=1001lry3&ct=dashboard&app=itunes&at=1001lry3&ct=dashboard" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li>

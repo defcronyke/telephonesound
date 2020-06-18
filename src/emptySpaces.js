@@ -25,6 +25,7 @@ export default class EmptySpaces extends Component {
 
           <ul>
             <li><a href="https://telephonesound.bandcamp.com/album/empty-spaces" target="_blank" rel="noopener noreferrer">Stream or buy on BandCamp</a></li>
+            <li><a href="https://music.youtube.com/playlist?list=OLAK5uy_l4K4jTsPGEPoTMZ44BZCvTlKXdxiNnAvg" target="_blank" rel="noopener noreferrer">Stream on YouTube Music</a></li>
             <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Empty_Spaces?id=B7nnp7msl3myudmptcwtn2jgdfe" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
             {/* <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Empty_Spaces?id=Bnsveoyptamxwfpaln2gx6yej3m" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li> */}
             <li><a href="https://itunes.apple.com/us/album/empty-spaces/1452079648?app=itunes&ign-mpt=uo%3D4" target="_blank" rel="noopener noreferrer">Buy on iTunes</a></li>
