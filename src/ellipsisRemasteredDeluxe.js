@@ -32,6 +32,7 @@ export default class EllipsisRemasteredDeluxe extends Component {
           <ul>
             <li><a href="https://emanate.live/telephonesound" target="_blank" rel="noopener noreferrer">Stream on Emanate.live</a></li>
             <li><a href="https://telephonesound.bandcamp.com/album/ellipsis-remastered-deluxe" target="_blank" rel="noopener noreferrer">Stream or buy on BandCamp</a></li>
+            <li><a href="https://music.youtube.com/playlist?list=OLAK5uy_nqH6DJzhIe3i-SUDm8Ex5S_r06qiLUZ-k" target="_blank" rel="noopener noreferrer">Stream on YouTube Music</a></li>
             <li><a href="https://play.google.com/store/music/album/Telephone_Sound_Ellipsis_Remastered_Deluxe?id=Be6uvln5i3jngnc7hfw6qhk7mui" target="_blank" rel="noopener noreferrer">Stream or buy on Google Play Music Store</a></li>
             {/* <li><a href="https://www.amazon.com/gp/product/B084RR3J81" target="_blank" rel="noopener noreferrer">Stream or buy on Amazon</a></li> */}
             <li><a href="https://soundcloud.com/telephonesound/sets/ellipsis-remastered-deluxe" target="_blank" rel="noopener noreferrer">Stream or download on SoundCloud</a></li>
