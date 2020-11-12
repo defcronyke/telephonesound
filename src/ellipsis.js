@@ -17,9 +17,10 @@ export default class Ellipsis extends Component {
         <div className="links">
           <h4><Link to="/">Telephone Sound</Link> is an electronic music band from <a href="https://goo.gl/maps/68jtLij9kX72" target="_blank" rel="noopener noreferrer">Ottawa, Ontario, Canada</a>, consisting of partners <a href="https://prettyweird.ca" target="_blank" rel="noopener noreferrer">Fern Vale Volante</a> and <a href="https://eternalvoid.net" target="_blank" rel="noopener noreferrer">Jeremy Carter</a>.</h4>
 
-          <h2>Ellipsis, released in 2016:</h2>
+          <h2>Ellipsis (Deluxe), released in 2016:</h2>
 
-          <iframe title="Ellipsis (Deluxe) by Telephone Sound, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA9w7gX4C1R2_-rC1e3lvHRogXcTg9isU" frameBorder="0" allow="encrypted-media" allowFullScreen />
+          <iframe title="Ellipsis (Deluxe) by Telephone Sound, embedded from Audiomack." src="https://audiomack.com/embed/playlist/telephonesound/ellipsis-deluxe?background=1" scrolling="no" width="100%" height="400" scrollBars="no" frameBorder="0" />
+          {/* <iframe title="Ellipsis (Deluxe) by Telephone Sound, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA9w7gX4C1R2_-rC1e3lvHRogXcTg9isU" frameBorder="0" allow="encrypted-media" allowFullScreen /> */}
 
           <h3><a href="https://defcronyke.github.io/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here to try the Telephone Sound Audio-Reactive Camera Filter, you can use it with any device that has a screen, camera, and microphone attached.</a> <a href="https://github.com/defcronyke/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here for the source code.</a></h3>
 
