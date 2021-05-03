@@ -19,7 +19,8 @@ export default class EmptySpaces extends Component {
 
           <h2>Empty Spaces, released in 2019:</h2>
 
-          <iframe title="Empty Spaces by Telephone Sound, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA9w7gX4C1R2vbq8Q2M3xqtB63xf6DKVG" frameBorder="0" allow="encrypted-media" allowFullScreen />
+          <iframe title="Empty Spaces by Telephone Sound, embedded from Audius." src="https://audius.co/embed/album?id=46917&ownerId=167306&flavor=card" width="100%" height="480" allow="encrypted-media" style={{'border': 'none'}} />
+          {/* <iframe title="Empty Spaces by Telephone Sound, embedded from YouTube." width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA9w7gX4C1R2vbq8Q2M3xqtB63xf6DKVG" frameBorder="0" allow="encrypted-media" allowFullScreen /> */}
 
           <h3><a href="https://defcronyke.github.io/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here to try the Telephone Sound Audio-Reactive Camera Filter, you can use it with any device that has a screen, camera, and microphone attached.</a> <a href="https://github.com/defcronyke/ts-camera-filter" target="_blank" rel="noopener noreferrer">Click here for the source code.</a></h3>
 

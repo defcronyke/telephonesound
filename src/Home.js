@@ -31,6 +31,7 @@ export default class Home extends Component {
               />
             </Link>
           </div>
+          <iframe title="Telephone Sound songs recommended by Telephone Sound, embedded from Audius." src="https://audius.co/embed/playlist?id=46925&ownerId=167306&flavor=card" width="100%" height="480" allow="encrypted-media" style={{'border': 'none'}} />
           <br/>
           <p style={{fontSize: '10pt', textAlign: 'left', marginLeft: '30px'}}><a href="privacy-policy.html" style={{color: 'white'}}>View Privacy Policy</a></p>
           <br/>

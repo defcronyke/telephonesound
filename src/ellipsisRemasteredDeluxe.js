@@ -23,7 +23,8 @@ export default class EllipsisRemasteredDeluxe extends Component {
 
           <h2>Ellipsis (Remastered Deluxe), released in 2020:</h2>
 
-          <iframe title="Ellipsis (Remastered Deluxe) by Telephone Sound, embedded from Audiomack." src="https://audiomack.com/embed/album/telephonesound/ellipsis-remastered-deluxe?background=1" scrolling="no" width="100%" height="400" scrollBars="no" frameBorder="0" />
+          <iframe title="Ellipsis (Remastered Deluxe) by Telephone Sound, embedded from Audius." src="https://audius.co/embed/album?id=46904&ownerId=167306&flavor=card" width="100%" height="480" allow="encrypted-media" style={{'border': 'none'}} />
+          {/* <iframe title="Ellipsis (Remastered Deluxe) by Telephone Sound, embedded from Audiomack." src="https://audiomack.com/embed/album/telephonesound/ellipsis-remastered-deluxe?background=1" scrolling="no" width="100%" height="400" scrollBars="no" frameBorder="0" /> */}
           {/* <iframe title="Ellipsis (Remastered Deluxe) by Telephone Sound, embedded from SoundCloud." width="100%" height="300" scrolling="no" frameBorder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1017678904&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" target="_blank" rel="noopener noreferrer" /> */}
           {/* <iframe title="Ellipsis (Remastered Deluxe) by Telephone Sound, embedded from YouTube." width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_n2ppYqCNO2K_sb3KJFWy5z7M5LoMtM4L4" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen /> */}
 
