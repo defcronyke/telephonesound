@@ -28,16 +28,16 @@ export default class Home extends Component {
 
 
 
-				                <br />      <br />
-			<br />		<br />  <br />      <br />
-			<br />		<br />  <br /><br /><br />
-			<br />		<br />              <br />
-			<br />		<br />              <br />
+			                    <br />      <br />
+			<br />      <br />  <br />      <br />
+			<br />      <br />  <br /><br /><br />
+			<br />      <br />              <br />
+			<br />      <br />              <br />
 			<br /><br /><br />				
-			<br />		<br />
-			<br />		<br />
-			<br />		<br />
-			<br />		<br />
+			<br />      <br />
+			<br />      <br />
+			<br />      <br />
+			<br />      <br />
 
 
 
