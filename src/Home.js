@@ -23,8 +23,30 @@ export default class Home extends Component {
 				<br />
 				<br />
 				<br />
+				<br />
 			</div>
 			
+
+
+
+			                    <br />      <br />
+			<br />      <br />  <br /><br /><br />
+			<br />      <br />              <br />
+			<br /><br /><br />				
+			<br />      <br />
+			<br />      <br />
+
+
+
+
+
+			<div>
+				<a href ="https://tinyurl.com/ts-blankets">
+					<iframe title="blanket - ts blankets - (YouTube cover album)" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL49dWPZn7_EykcJaANV3EUAwA64Eb58yk" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+				</a>
+			</div>
+
+
 
 
 
@@ -38,8 +60,9 @@ export default class Home extends Component {
 			<br />      <br />
 			<br />      <br />
 			<br />      <br />
-
 			
+
+
 
 
 
