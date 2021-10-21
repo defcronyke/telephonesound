@@ -37,9 +37,9 @@ export default class Home extends Component {
 
 
 			<div>
-				<a href="https://archive.org/embed/2021-10-10_202110" target="_blank" style={{padding: '2em'}}>
+				<a href="https://archive.org/embed/2021-10-10_202110" target="_blank" rel="noopener noreferrer" style={{padding: '2em'}}>
 					<div>
-						<a href="https://defcronyke.github.io/stacktris" target="_blank" style={{padding: '2em'}}>
+						<a href="https://defcronyke.github.io/stacktris" target="_blank" rel="noopener noreferrer" style={{padding: '2em'}}>
 							<div>
 								<iframe alt="https://defcronyke.github.io/stacktris" title="a web game that's a bit like tetris, but opposite" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2Fdjforg%2F2021-10-10-epoch%2F" frameBorder="0" allow="autoplay" />
 							</div>
