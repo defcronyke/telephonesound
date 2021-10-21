@@ -30,16 +30,23 @@ export default class Home extends Component {
 
 
 
-			<iframe alt="http://chonkify.me" title="minigame (for kids)" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftelephonesound%2Fposts%2F1132649737138810&show_text=true&width=500" width="500" height="543" scrolling="no" frameBorder="0" allowFullScreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" />
+			{/* <iframe alt="http://chonkify.me" title="minigame (for kids)" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftelephonesound%2Fposts%2F1432669717138880&show_text=true&width=500" width="500" height="543" scrolling="no" frameBorder="0" allowFullScreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" /> */}
 
 
 
 
 
-
-
-
-			<iframe alt="http://saladfinder.com" title="https://cryptospread.com/names-db" src="https://archive.org/embed/2021-10-10_202110" width="500" height="140" frameBorder="0" webkitAllowFullScreen="true" mozAllowFullScreen="true" allowFullScreen />
+			<div>
+				<a href="https://archive.org/embed/2021-10-10_202110" target="_blank" style={{padding: '2em'}}>
+					<div>
+						<a href="https://defcronyke.github.io/stacktris" target="_blank" style={{padding: '2em'}}>
+							<div>
+								<iframe alt="https://defcronyke.github.io/stacktris" title="a web game that's a bit like tetris, but opposite" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2Fdjforg%2F2021-10-10-epoch%2F" frameBorder="0" allow="autoplay" />
+							</div>
+						</a>
+					</div>
+				</a>
+			</div>
 
 
 
