@@ -10,25 +10,28 @@ export default class Home extends Component {
 			<div>
 				<iframe title="djf_T2021_10_25_Z03_00_EST" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2FDefcronyke%2Fdjf_t2021_10_25_z03_00_est%2F" frameBorder="0" allow="autoplay" />
 				<br />
-				<br />
 			</div>
 			
 			<div>
 				<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](audio_only, version) { 0; }" src="https://audius.co/embed/track/V04KQ?flavor=compact" width="100%" height="120" allow="encrypted-media; autoplay" style={{border: "none;"}} />
 				<br />
 				<br />
-				<br />
-				<br />
-				<br />
 
-				<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](youtube, video) { 0; }" width="560" height="315" src="https://www.youtube-nocookie.com/embed/CdQ5YigPIhQ?start=97" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
-				<br />
-				<br />
 
-				<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](Facebook TV, video) { 0; }" src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Ftelephonesound%2Fvideos%2F597640378145255%2F&show_text=true&width=226&t=102" width="226" height="591" style={{border: 'none;', overflow: 'hidden;'}} scrolling="no" frameBorder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true" />
+				<a href="https://fb.watch/8SflB-Gbqw?t=102">
+					<br />
 				
-				<br />
-				<br />
+					<div>
+
+						<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](youtube, video) { 0; }" width="560" height="315" src="https://www.youtube-nocookie.com/embed/CdQ5YigPIhQ?start=97" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+						<br />
+						<br />
+
+					</div>
+
+					<br />
+				</a>
+				
 				<br />
 				<br />
 				<br />
