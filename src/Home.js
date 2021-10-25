@@ -13,9 +13,20 @@ export default class Home extends Component {
 			</div>
 			
 			<div>
-				<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](audio_only, version) { 0; }" src="https://audius.co/embed/track/V04KQ?flavor=compact" width="100%" height="120" allow="encrypted-media; autoplay" style={{border: "none;"}} />
 				<br />
-				<br />
+				<a href="https://archive.org/embed/bells-in-santa-fe-iichliwp-h4-halsey-djf-mix">
+					<div>
+						<br />
+						<a href="https://archive.org/embed/bells-in-santa-fe-halsey-djf-mix-audio" target="_blank" rel="noopener noreferrer">
+							<div>
+								<br />
+								<iframe title="bells_in_santa_fe <- @halsey := [djf_mix] (audio_only, version) { 0; }" src="https://audius.co/embed/track/V04KQ?flavor=compact" width="100%" height="120" allow="encrypted-media; autoplay" style={{border: "none;"}} />
+								<br />
+								<br />
+							</div>
+						</a>
+					</div>
+				</a>
 
 				<a href="https://www.instagram.com/tv/CVcCOJLFkFg/?utm_source=ig_web_copy_link" target="_blank" rel="noopener noreferrer">
 					<br />
