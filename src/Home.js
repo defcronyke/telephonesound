@@ -8,7 +8,7 @@ export default class Home extends Component {
       <div className="App">
         <div className="main">
 			<div>
-				<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](audio_only, version) { 0; }" src="https://audius.co/embed/track/V04KQ?flavor=compact" width="100%" height="120" allow="encrypted-media" style={{border: "none;"}} />
+				<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](audio_only, version) { 0; }" src="https://audius.co/embed/track/V04KQ?flavor=compact" width="100%" height="120" allow="encrypted-media; autoplay" style={{border: "none;"}} />
 				<br />
 				<br />
 				<br />
