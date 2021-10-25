@@ -17,23 +17,32 @@ export default class Home extends Component {
 				<br />
 				<br />
 
-
-				<a href="https://fb.watch/8SflB-Gbqw?t=102">
+				<a href="https://www.instagram.com/tv/CVcCOJLFkFg/?utm_source=ig_web_copy_link" target="_blank" rel="noopener noreferrer">
 					<br />
-				
 					<div>
+						<br />
 
-						<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](youtube, video) { 0; }" width="560" height="315" src="https://www.youtube-nocookie.com/embed/CdQ5YigPIhQ?start=97" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
-						<br />
-						<br />
+						<a href="https://fb.watch/8SflB-Gbqw?t=102" target="_blank" rel="noopener noreferrer">
+							<br />
+						
+							<div>
+
+								<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](youtube, video) { 0; }" width="560" height="315" src="https://www.youtube-nocookie.com/embed/CdQ5YigPIhQ?start=97" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+								<br />
+								<br />
+
+							</div>
+
+							<br />
+						</a>
 
 					</div>
-
-					<br />
-				</a>
 				
-				<br />
-				<br />
+					<br />
+					<br />
+
+					</a>
+
 				<br />
 			</div>
 			<div>
