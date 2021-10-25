@@ -8,8 +8,16 @@ export default class Home extends Component {
       <div className="App">
         <div className="main">
 			<div>
-				<br />
 				<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](audio_only, version) { 0; }" src="https://audius.co/embed/track/V04KQ?flavor=compact" width="100%" height="120" allow="encrypted-media" style={{border: "none;"}} />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](youtube, video) { 0; }" width="560" height="315" src="https://www.youtube-nocookie.com/embed/CdQ5YigPIhQ?start=97" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+				<br />
+				<br />
+				<br />
 				<br />
 				<br />
 				<br />
