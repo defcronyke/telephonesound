@@ -14,7 +14,7 @@ export default class Home extends Component {
 			
 			<div>
 				<br />
-				<a href="https://archive.org/embed/bells-in-santa-fe-iichliwp-h4-halsey-djf-mix">
+				<a href="https://archive.org/embed/bells-in-santa-fe-iichliwp-h4-halsey-djf-mix" target="_blank" rel="noopener noreferrer">
 					<div>
 						<br />
 						<a href="https://archive.org/embed/bells-in-santa-fe-halsey-djf-mix-audio" target="_blank" rel="noopener noreferrer">
