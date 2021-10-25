@@ -7,12 +7,16 @@ export default class Home extends Component {
     return (
       <div className="App">
         <div className="main">
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
-			<br />
+			<div>
+				<br />
+				<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](audio_only, version) { 0; }" src="https://audius.co/embed/track/V04KQ?flavor=compact" width="100%" height="120" allow="encrypted-media" style={{border: "none;"}} />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+			</div>
 			<div>
 				<br />
 				<a href ="https://tinyurl.com/fern-the-willow-tree-video">
