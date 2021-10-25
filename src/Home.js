@@ -21,19 +21,17 @@ export default class Home extends Component {
 				<br />
 				<br />
 
-				<a href="https://fb.watch/8SdB4Fpd7_/">
-					<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](Facebook TV, video) { 0; }" src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Ftelephonesound%2Fvideos%2F597640378145255%2F&show_text=true&width=226&t=102" width="226" height="591" style={{border: 'none;', overflow: 'hidden;'}} scrolling="no" frameBorder="0" allowFullScreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" />
-					<br />
-					<br />
+				<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](youtube, video) { 0; }" width="560" height="315" src="https://www.youtube-nocookie.com/embed/CdQ5YigPIhQ?start=97" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+				<br />
+				<br />
 
-					<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](youtube, video) { 0; }" width="560" height="315" src="https://www.youtube-nocookie.com/embed/CdQ5YigPIhQ?start=97" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
-					<br />
-					<br />
-					<br />
-					<br />
-					<br />
-				</a>
-
+				<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](Facebook TV, video) { 0; }" src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Ftelephonesound%2Fvideos%2F597640378145255%2F&show_text=true&width=226&t=102" width="226" height="591" style={{border: 'none;', overflow: 'hidden;'}} scrolling="no" frameBorder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true" />
+				
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
 			</div>
 			<div>
 				<br />
