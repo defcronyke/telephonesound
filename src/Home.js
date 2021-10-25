@@ -8,6 +8,12 @@ export default class Home extends Component {
       <div className="App">
         <div className="main">
 			<div>
+				<iframe title="djf_T2021_10_25_Z03_00_EST" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2FDefcronyke%2Fdjf_t2021_10_25_z03_00_est%2F" frameBorder="0" allow="autoplay" />
+				<br />
+				<br />
+			</div>
+			
+			<div>
 				<iframe title="bells_in_santa_fe <- @halsey := [djf_mix](audio_only, version) { 0; }" src="https://audius.co/embed/track/V04KQ?flavor=compact" width="100%" height="120" allow="encrypted-media; autoplay" style={{border: "none;"}} />
 				<br />
 				<br />
