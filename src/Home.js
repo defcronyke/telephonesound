@@ -21,7 +21,7 @@ export default class Home extends Component {
         <div className="main">
 
 			<div>
-				<a href="https://archive.org/search.php?query=description%3A%28%23djf%29%20AND%20mediatype%3A%28audio%29">
+				<a href="https://archive.org/search.php?query=description%3A%28%23djf%29%20AND%20mediatype%3A%28audio%29" target="_blank" rel="noopener noreferrer">
 					<br />
 					
 					<p style={{ 'color': '#FFFFFF', }}>#djf #mix</p>
@@ -80,7 +80,7 @@ export default class Home extends Component {
 			</div>
 			<div>
 				<br />
-				<a href ="https://tinyurl.com/fern-the-willow-tree-video">
+				<a href ="https://tinyurl.com/fern-the-willow-tree-video" target="_blank" rel="noopener noreferrer">
 					<iframe title="The Willow Tree (English) - Fern Vale - Music Video (YouTube)" width="560" height="315" src="https://www.youtube.com/embed/mKJCu6OkUu8" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
 				</a>
 				<br />
@@ -122,7 +122,7 @@ export default class Home extends Component {
 	
 								<br /> <br />
 
-								<a href="https://archive.org/embed/bullet-craig-johnstone-and-touanda-djf-mix">
+								<a href="https://archive.org/embed/bullet-craig-johnstone-and-touanda-djf-mix" target="_blank" rel="noopener noreferrer">
 
 									<br /> <br />
 	
@@ -163,7 +163,7 @@ export default class Home extends Component {
 
 
 			<div>
-				<a href ="https://tinyurl.com/ts-blankets">
+				<a href ="https://tinyurl.com/ts-blankets" target="_blank" rel="noopener noreferrer">
 
 					<br />
 
@@ -179,7 +179,7 @@ export default class Home extends Component {
 
 
 			<div>
-				<a href="https://www.youtube.com/channel/UCIsZQlxaFXUGlpCFRLJAfbQ">
+				<a href="https://www.youtube.com/channel/UCIsZQlxaFXUGlpCFRLJAfbQ" target="_blank" rel="noopener noreferrer">
 					<br /> <br />
 					
 					<p style={{ 'color': '#FFFFFF', }}>ts blankets YouTube likes</p>
