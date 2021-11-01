@@ -6,10 +6,32 @@ export default class Home extends Component {
   render() {
     return (
       <div className="App">
+
+		<div className="image">
+			<Link to="/empty-spaces">
+				<div className="ts-el"><span className="t">T</span><span className="s">elephone Sound</span></div>
+				<div className="el">…</div>
+			</Link>
+		</div>
+
+		<br /> <br />
+		<br /> <br />
+		<br /> <br />
+
         <div className="main">
+
 			<div>
-				<iframe title="djf_T2021_10_25_Z03_00_EST" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2FDefcronyke%2Fdjf_t2021_10_25_z03_00_est%2F" frameBorder="0" allow="autoplay" />
-				<br />
+				<a href="https://archive.org/search.php?query=description%3A%28%23djf%29%20AND%20mediatype%3A%28audio%29">
+					<br />
+					
+					<p style={{ 'color': '#FFFFFF', }}>#djf #mix</p>
+
+					<iframe title="djf_T2021_10_25_Z03_00_EST" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=0&feed=%2FDefcronyke%2Fdjf_t2021_10_25_z03_00_est%2F" frameBorder="0" allow="autoplay" />
+
+					{/* <iframe title="djf_T2021_10_25_Z03_00_EST" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2FDefcronyke%2Fdjf_t2021_10_25_z03_00_est%2F" frameBorder="0" allow="autoplay" /> */}
+					
+					<br />
+				</a>
 			</div>
 			
 			<div>
@@ -81,13 +103,41 @@ export default class Home extends Component {
 
 			<div>
 				<a href="https://archive.org/embed/2021-10-10_202110" target="_blank" rel="noopener noreferrer" style={{padding: '2em'}}>
+
+					<br /> <br />
+
 					<div>
 						<a href="https://defcronyke.github.io/stacktris" target="_blank" rel="noopener noreferrer" style={{padding: '2em'}}>
+							
+							<br /> <br />
+							
 							<div>
-								<iframe alt="https://defcronyke.github.io/stacktris" title="a web game that's a bit like tetris, but opposite" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2Fdjforg%2F2021-10-10-epoch%2F" frameBorder="0" allow="autoplay" />
+								<iframe alt="https://defcronyke.github.io/stacktris" title="a web game that's a bit like tetris, but opposite" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=0&feed=%2Fdjforg%2F2021-10-10-epoch%2F" frameBorder="0" allow="autoplay" />
+								{/* <iframe alt="https://defcronyke.github.io/stacktris" title="a web game that's a bit like tetris, but opposite" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2Fdjforg%2F2021-10-10-epoch%2F" frameBorder="0" allow="autoplay" /> */}
 							</div>
+
+							<br /> <br />
+
+							<div>
+	
+								<br /> <br />
+
+								<a href="https://archive.org/embed/bullet-craig-johnstone-and-touanda-djf-mix">
+
+									<br /> <br />
+	
+									<iframe title="telephone sound likes these songs by other artists (audius.co embedded player)" src="https://audius.co/embed/playlist/DrA9Q?flavor=card" width="100%" height="480" allow="encrypted-media" style={{'border': 'none;'}} />
+
+									<br /> <br />
+								</a>
+							</div>
+
+							<br /> <br />
 						</a>
 					</div>
+
+					<br /> <br />
+
 				</a>
 			</div>
 
@@ -114,7 +164,30 @@ export default class Home extends Component {
 
 			<div>
 				<a href ="https://tinyurl.com/ts-blankets">
+
+					<br />
+
+					<p style={{ 'color': '#FFFFFF', }}>blanket - ts blankets</p>
+
 					<iframe title="blanket - ts blankets - (YouTube cover album)" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL49dWPZn7_EykcJaANV3EUAwA64Eb58yk" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+					
+					<br /> <br />
+					<br />
+				</a>
+			</div>
+
+
+
+			<div>
+				<a href="https://www.youtube.com/channel/UCIsZQlxaFXUGlpCFRLJAfbQ">
+					<br /> <br />
+					
+					<p style={{ 'color': '#FFFFFF', }}>ts blankets YouTube likes</p>
+					
+					<iframe title="ts blankets loves other artists playlist (YouTube embedded player)" width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL49dWPZn7_ExP001PG1amPPo-XYOGAALr" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+
+					<br /> <br />
+					<br />
 				</a>
 			</div>
 
