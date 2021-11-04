@@ -7,16 +7,21 @@ export default class Home extends Component {
     return (
       <div className="App">
 
-		<div className="image">
-			<Link to="/empty-spaces">
+		<a href="https://twitter.com/telephonesound/status/1456298539303194627">
+
+			<br />
+
+			<div className="image">
+				{/* <Link to="/empty-spaces"> */}
 				<div className="ts-el"><span className="t">T</span><span className="s">elephone Sound</span></div>
 				<div className="el">…</div>
-			</Link>
-		</div>
+				{/* </Link> */}
+			</div>
 
-		<br /> <br />
-		<br /> <br />
-		<br /> <br />
+			<br /> <br />
+			<br /> <br />
+			<br /> <br />
+		</a>
 
         <div className="main">
 
