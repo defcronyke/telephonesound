@@ -7,27 +7,45 @@ export default class Home extends Component {
     return (
       <div className="App">
 
-		<a href="https://twitter.com/telephonesound/status/1456298539303194627">
+		<br />
 
-			<br />
+		<div className="image">
+			{/* <Link to="/empty-spaces"> */}
 
-			<div className="image">
-				{/* <Link to="/empty-spaces"> */}
+			<a href="https://twitter.com/telephonesound/status/1456298539303194627">
 				<div className="ts-el"><span className="t">T</span><span className="s">elephone Sound</span></div>
-				<div className="el">…</div>
-				{/* </Link> */}
-			</div>
+				<br />
+			</a>
+			<div className="el">…</div>
+			{/* </Link> */}
+		</div>
 
-			<br /> <br />
-			<br /> <br />
-			<br /> <br />
-		</a>
+		<br /> <br />
+		<br /> <br />
+		<br /> <br />
 
         <div className="main">
 
 			<div>
-				<a href="https://archive.org/search.php?query=description%3A%28%23djf%29%20AND%20mediatype%3A%28audio%29" target="_blank" rel="noopener noreferrer">
-					<br />
+				<br /><br /><br />
+				<br /><br /><br />
+				<br /><br /><br />
+				<br /><br /><br />
+				<a href ="https://tinyurl.com/fern-the-willow-tree-video" target="_blank" rel="noopener noreferrer">
+					<iframe title="The Willow Tree (English) - Fern Vale - Music Video (YouTube)" width="560" height="315" src="https://www.youtube.com/embed/mKJCu6OkUu8" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+				</a>
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+				<br />
+			</div>
+
+			{/* <div style={{maxWidth: '820px', marginLeft: 'auto', marginRight: 'auto'}}> */}
+			<div>
+				{/* <a href="https://archive.org/search.php?query=description%3A%28%23djf%29%20AND%20mediatype%3A%28audio%29" target="_blank" rel="noopener noreferrer"> */}
+					<br /><br /><br />
 					
 					<p style={{ 'color': '#FFFFFF', }}>#djf #mix</p>
 
@@ -35,15 +53,23 @@ export default class Home extends Component {
 
 					{/* <iframe title="djf_T2021_10_25_Z03_00_EST" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2FDefcronyke%2Fdjf_t2021_10_25_z03_00_est%2F" frameBorder="0" allow="autoplay" /> */}
 					
+					<br /><br />
+				{/* </a> */}
+			</div>
+
+			<div>
+				<br /><br />
+
+				<a href="https://touanda.com" target="_blank" rel="noopener noreferrer">
+					<p style={{ 'color': '#FFFFFF', }}>defcron hifi mix of "bullet" radio by touanda and craig johnstone</p>
 					<br />
+					<iframe title="defcron hifi mix of bullet radio by touanda and craig johnstone" src="https://archive.org/embed/bullet-craig-johnstone-and-touanda-defcron-cover-02" width="500" height="140" frameBorder="0" webkitAllowFullScreen="true" mozAllowFullScreen="true" allowFullScreen />
 				</a>
 			</div>
 			
 			<div>
-				<br />
 				<a href="https://archive.org/embed/bells-in-santa-fe-iichliwp-h4-halsey-djf-mix" target="_blank" rel="noopener noreferrer">
 					<div>
-						<br />
 						<a href="https://archive.org/embed/bells-in-santa-fe-halsey-djf-mix-audio" target="_blank" rel="noopener noreferrer">
 							<div>
 								<br />
@@ -83,21 +109,6 @@ export default class Home extends Component {
 
 				<br />
 			</div>
-			<div>
-				<br />
-				<a href ="https://tinyurl.com/fern-the-willow-tree-video" target="_blank" rel="noopener noreferrer">
-					<iframe title="The Willow Tree (English) - Fern Vale - Music Video (YouTube)" width="560" height="315" src="https://www.youtube.com/embed/mKJCu6OkUu8" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
-				</a>
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-				<br />
-			</div>
-
-
-
 
 
 			{/* <iframe alt="http://chonkify.me" title="minigame (for kids)" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftelephonesound%2Fposts%2F1432669717138880&show_text=true&width=500" width="500" height="543" scrolling="no" frameBorder="0" allowFullScreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" /> */}
