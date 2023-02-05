@@ -244,7 +244,7 @@ export default class EllipsisRemasteredDeluxe extends Component {
             </li>
           </ul>
 
-          <div className="news">
+          {/* <div className="news">
             <h2>News:</h2>
             <iframe
               title="Telephone Sound Ellipsis Remastered Deluxe Facebook Page Embed"
@@ -257,7 +257,7 @@ export default class EllipsisRemasteredDeluxe extends Component {
               allowtransparency="true"
               allow="encrypted-media"
             />
-          </div>
+          </div> */}
 
           <h3>
             Check out what we&#39;re working on for our next album. New tracks
